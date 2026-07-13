@@ -1,5 +1,5 @@
 {
-  "version": "8",
+  "version": "9",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
@@ -79,18 +79,9 @@
       "pdfSizeMb": 0,
       "hasAudio": true,
       "teacherAudio": [
-        {
-          "teacherId": "samir",
-          "parts": [1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46]
-        },
-        {
-          "teacherId": "misbah",
-          "parts": [1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19]
-        },
-        {
-          "teacherId": "amin",
-          "parts": [1,2,3,4,5,6,7,8,9,10,11,12]
-        }
+        {"teacherId": "samir", "parts": [1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46]},
+        {"teacherId": "misbah", "parts": [1,2,3,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19]},
+        {"teacherId": "amin", "parts": [1,2,3,4,5,6,7,8,9,10,11,12]}
       ],
       "isNew": true,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/arbaeen.pdf",
@@ -107,9 +98,7 @@
       "pages": 0,
       "pdfSizeMb": 0,
       "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "amin", "parts": []}
-      ],
+      "teacherAudio": [{"teacherId": "amin", "parts": []}],
       "isNew": false,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/bulugh.pdf",
       "coverUrl": null,
@@ -125,9 +114,7 @@
       "pages": 0,
       "pdfSizeMb": 0,
       "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "abubakr", "parts": []}
-      ],
+      "teacherAudio": [{"teacherId": "abubakr", "parts": []}],
       "isNew": false,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/risala.pdf",
       "coverUrl": null,
@@ -200,9 +187,7 @@
       "pages": 0,
       "pdfSizeMb": 0,
       "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "ammash", "parts": []}
-      ],
+      "teacherAudio": [{"teacherId": "ammash", "parts": []}],
       "isNew": false,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/qawl.pdf",
       "coverUrl": null,
@@ -218,9 +203,7 @@
       "pages": 0,
       "pdfSizeMb": 0,
       "hasAudio": true,
-      "teacherAudio": [
-        {"teacherId": "amin", "parts": []}
-      ],
+      "teacherAudio": [{"teacherId": "amin", "parts": []}],
       "isNew": true,
       "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books/umdat.pdf",
       "coverUrl": null,
@@ -249,576 +232,120 @@
   "quran": {
     "mushafPdfUrl": "",
     "surahs": {
-      "1": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/1.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "2": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/2.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "3": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/3.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "4": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/4.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "5": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/5.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "6": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/6.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "7": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/7.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "8": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/8.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "9": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/9.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "10": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/10.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "11": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/11.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "12": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/12.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "13": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/13.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "14": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/14.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "15": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/15.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "16": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/16.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "17": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/17.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "18": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/18.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "19": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/19.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "20": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/20.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "21": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/21.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "22": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/22.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "23": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/23.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "24": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/24.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "25": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/25.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "26": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/26.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "27": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/27.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "28": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/28.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "29": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/29.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "30": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/30.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "31": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/31.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "32": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/32.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "33": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/33.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "34": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/34.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "35": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/35.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "36": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/36.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "37": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/37.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "38": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/38.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "39": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/39.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "40": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/40.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "41": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/41.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "42": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/42.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "43": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/43.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "44": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/44.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "45": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/45.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "46": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/46.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "47": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/47.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "48": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/48.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "49": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/49.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "50": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/50.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "51": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/51.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "52": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/52.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "53": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/53.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "54": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/54.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "55": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/55.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "56": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/56.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "57": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/57.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "58": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/58.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "59": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/59.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "60": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/60.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "61": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/61.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "62": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/62.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "63": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/63.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "64": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/64.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "65": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/65.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "66": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/66.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "67": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/67.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "68": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/68.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "69": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/69.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "70": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/70.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "71": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/71.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "72": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/72.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "73": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/73.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "74": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/74.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "75": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/75.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "76": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/76.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "77": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/77.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "78": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/78.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "79": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/79.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "80": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/80.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "81": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/81.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "82": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/82.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "83": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/83.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "84": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/84.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "85": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/85.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "86": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/86.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "87": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/87.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "88": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/88.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "89": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/89.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "90": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/90.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "91": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/91.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "92": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/92.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "93": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/93.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "94": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/94.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "95": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/95.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "96": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/96.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "97": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/97.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "98": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/98.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "99": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/99.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "100": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/100.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "101": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/101.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "102": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/102.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "103": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/103.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "104": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/104.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "105": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/105.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "106": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/106.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "107": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/107.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "108": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/108.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "109": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/109.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "110": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/110.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "111": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/111.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "112": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/112.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "113": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/113.pdf",
-        "reciters": [],
-        "teachers": []
-      },
-      "114": {
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/114.pdf",
-        "reciters": [],
-        "teachers": []
-      }
+      "1": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/1.pdf", "reciters": [], "teachers": []},
+      "2": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/2.pdf", "reciters": [], "teachers": []},
+      "3": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/3.pdf", "reciters": [], "teachers": []},
+      "4": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/4.pdf", "reciters": [], "teachers": []},
+      "5": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/5.pdf", "reciters": [], "teachers": []},
+      "6": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/6.pdf", "reciters": [], "teachers": []},
+      "7": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/7.pdf", "reciters": [], "teachers": []},
+      "8": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/8.pdf", "reciters": [], "teachers": []},
+      "9": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/9.pdf", "reciters": [], "teachers": []},
+      "10": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/10.pdf", "reciters": [], "teachers": []},
+      "11": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/11.pdf", "reciters": [], "teachers": []},
+      "12": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/12.pdf", "reciters": [], "teachers": []},
+      "13": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/13.pdf", "reciters": [], "teachers": []},
+      "14": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/14.pdf", "reciters": [], "teachers": []},
+      "15": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/15.pdf", "reciters": [], "teachers": []},
+      "16": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/16.pdf", "reciters": [], "teachers": []},
+      "17": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/17.pdf", "reciters": [], "teachers": []},
+      "18": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/18.pdf", "reciters": [], "teachers": []},
+      "19": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/19.pdf", "reciters": [], "teachers": []},
+      "20": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/20.pdf", "reciters": [], "teachers": []},
+      "21": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/21.pdf", "reciters": [], "teachers": []},
+      "22": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/22.pdf", "reciters": [], "teachers": []},
+      "23": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/23.pdf", "reciters": [], "teachers": []},
+      "24": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/24.pdf", "reciters": [], "teachers": []},
+      "25": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/25.pdf", "reciters": [], "teachers": []},
+      "26": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/26.pdf", "reciters": [], "teachers": []},
+      "27": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/27.pdf", "reciters": [], "teachers": []},
+      "28": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/28.pdf", "reciters": [], "teachers": []},
+      "29": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/29.pdf", "reciters": [], "teachers": []},
+      "30": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/30.pdf", "reciters": [], "teachers": []},
+      "31": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/31.pdf", "reciters": [], "teachers": []},
+      "32": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/32.pdf", "reciters": [], "teachers": []},
+      "33": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/33.pdf", "reciters": [], "teachers": []},
+      "34": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/34.pdf", "reciters": [], "teachers": []},
+      "35": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/35.pdf", "reciters": [], "teachers": []},
+      "36": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/36.pdf", "reciters": [], "teachers": []},
+      "37": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/37.pdf", "reciters": [], "teachers": []},
+      "38": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/38.pdf", "reciters": [], "teachers": []},
+      "39": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/39.pdf", "reciters": [], "teachers": []},
+      "40": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/40.pdf", "reciters": [], "teachers": []},
+      "41": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/41.pdf", "reciters": [], "teachers": []},
+      "42": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/42.pdf", "reciters": [], "teachers": []},
+      "43": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/43.pdf", "reciters": [], "teachers": []},
+      "44": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/44.pdf", "reciters": [], "teachers": []},
+      "45": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/45.pdf", "reciters": [], "teachers": []},
+      "46": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/46.pdf", "reciters": [], "teachers": []},
+      "47": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/47.pdf", "reciters": [], "teachers": []},
+      "48": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/48.pdf", "reciters": [], "teachers": []},
+      "49": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/49.pdf", "reciters": [], "teachers": []},
+      "50": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/50.pdf", "reciters": [], "teachers": []},
+      "51": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/51.pdf", "reciters": [], "teachers": []},
+      "52": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/52.pdf", "reciters": [], "teachers": []},
+      "53": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/53.pdf", "reciters": [], "teachers": []},
+      "54": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/54.pdf", "reciters": [], "teachers": []},
+      "55": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/55.pdf", "reciters": [], "teachers": []},
+      "56": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/56.pdf", "reciters": [], "teachers": []},
+      "57": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/57.pdf", "reciters": [], "teachers": []},
+      "58": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/58.pdf", "reciters": [], "teachers": []},
+      "59": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/59.pdf", "reciters": [], "teachers": []},
+      "60": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/60.pdf", "reciters": [], "teachers": []},
+      "61": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/61.pdf", "reciters": [], "teachers": []},
+      "62": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/62.pdf", "reciters": [], "teachers": []},
+      "63": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/63.pdf", "reciters": [], "teachers": []},
+      "64": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/64.pdf", "reciters": [], "teachers": []},
+      "65": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/65.pdf", "reciters": [], "teachers": []},
+      "66": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/66.pdf", "reciters": [], "teachers": []},
+      "67": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/67.pdf", "reciters": [], "teachers": []},
+      "68": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/68.pdf", "reciters": [], "teachers": []},
+      "69": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/69.pdf", "reciters": [], "teachers": []},
+      "70": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/70.pdf", "reciters": [], "teachers": []},
+      "71": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/71.pdf", "reciters": [], "teachers": []},
+      "72": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/72.pdf", "reciters": [], "teachers": []},
+      "73": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/73.pdf", "reciters": [], "teachers": []},
+      "74": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/74.pdf", "reciters": [], "teachers": []},
+      "75": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/75.pdf", "reciters": [], "teachers": []},
+      "76": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/76.pdf", "reciters": [], "teachers": []},
+      "77": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/77.pdf", "reciters": [], "teachers": []},
+      "78": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/78.pdf", "reciters": [], "teachers": []},
+      "79": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/79.pdf", "reciters": [], "teachers": []},
+      "80": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/80.pdf", "reciters": [], "teachers": []},
+      "81": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/81.pdf", "reciters": [], "teachers": []},
+      "82": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/82.pdf", "reciters": [], "teachers": []},
+      "83": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/83.pdf", "reciters": [], "teachers": []},
+      "84": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/84.pdf", "reciters": [], "teachers": []},
+      "85": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/85.pdf", "reciters": [], "teachers": []},
+      "86": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/86.pdf", "reciters": [], "teachers": []},
+      "87": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/87.pdf", "reciters": [], "teachers": []},
+      "88": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/88.pdf", "reciters": [], "teachers": []},
+      "89": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/89.pdf", "reciters": [], "teachers": []},
+      "90": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/90.pdf", "reciters": [], "teachers": []},
+      "91": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/91.pdf", "reciters": [], "teachers": []},
+      "92": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/92.pdf", "reciters": [], "teachers": []},
+      "93": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/93.pdf", "reciters": [], "teachers": []},
+      "94": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/94.pdf", "reciters": [], "teachers": []},
+      "95": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/95.pdf", "reciters": [], "teachers": []},
+      "96": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/96.pdf", "reciters": [], "teachers": []},
+      "97": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/97.pdf", "reciters": [], "teachers": []},
+      "98": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/98.pdf", "reciters": [], "teachers": []},
+      "99": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/99.pdf", "reciters": [], "teachers": []},
+      "100": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/100.pdf", "reciters": [], "teachers": []},
+      "101": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/101.pdf", "reciters": [], "teachers": []},
+      "102": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/102.pdf", "reciters": [], "teachers": []},
+      "103": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/103.pdf", "reciters": [], "teachers": []},
+      "104": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/104.pdf", "reciters": [], "teachers": []},
+      "105": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/105.pdf", "reciters": [], "teachers": []},
+      "106": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/106.pdf", "reciters": [], "teachers": []},
+      "107": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/107.pdf", "reciters": [], "teachers": []},
+      "108": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/108.pdf", "reciters": [], "teachers": []},
+      "109": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/109.pdf", "reciters": [], "teachers": []},
+      "110": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/110.pdf", "reciters": [], "teachers": []},
+      "111": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/111.pdf", "reciters": [], "teachers": []},
+      "112": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/112.pdf", "reciters": [], "teachers": []},
+      "113": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/113.pdf", "reciters": [], "teachers": []},
+      "114": {"pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/114.pdf", "reciters": [], "teachers": []}
     },
     "subBranches": [
       {
@@ -827,7 +354,31 @@
         "titleAr": "القرآن الكريم",
         "titleEn": "The Noble Quran",
         "titleAm": "ቅዱስ ቁርኣን",
-        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/mushaf.pdf"
+        "pdfUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/mushaf.pdf",
+        "surahPages": {
+          "1": 1, "2": 2, "3": 50, "4": 77, "5": 106, "6": 128, "7": 151,
+          "8": 177, "9": 187, "10": 208, "11": 221, "12": 235, "13": 249,
+          "14": 255, "15": 262, "16": 267, "17": 282, "18": 293, "19": 305,
+          "20": 312, "21": 322, "22": 332, "23": 342, "24": 350, "25": 359,
+          "26": 367, "27": 377, "28": 385, "29": 396, "30": 404, "31": 411,
+          "32": 415, "33": 418, "34": 428, "35": 434, "36": 440, "37": 446,
+          "38": 453, "39": 458, "40": 467, "41": 477, "42": 483, "43": 489,
+          "44": 496, "45": 499, "46": 502, "47": 507, "48": 511, "49": 515,
+          "50": 518, "51": 520, "52": 523, "53": 526, "54": 528, "55": 531,
+          "56": 534, "57": 537, "58": 542, "59": 545, "60": 548, "61": 551,
+          "62": 553, "63": 554, "64": 556, "65": 558, "66": 560, "67": 562,
+          "68": 564, "69": 566, "70": 568, "71": 570, "72": 572, "73": 574,
+          "74": 575, "75": 577, "76": 578, "77": 580, "78": 582, "79": 583,
+          "80": 585, "81": 586, "82": 587, "83": 587, "84": 589, "85": 590,
+          "86": 591, "87": 591, "88": 592, "89": 593, "90": 594, "91": 595,
+          "92": 595, "93": 596, "94": 596, "95": 597, "96": 597, "97": 598,
+          "98": 598, "99": 599, "100": 599, "101": 600, "102": 600, "103": 601,
+          "104": 601, "105": 601, "106": 602, "107": 602, "108": 602, "109": 603,
+          "110": 603, "111": 603, "112": 604, "113": 604, "114": 604
+        },
+        "extras": [
+          {"titleAr": "دعاء ختم القرآن", "page": 605}
+        ]
       },
       {
         "id": "surahs",
