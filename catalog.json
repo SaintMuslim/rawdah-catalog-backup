@@ -1,5 +1,5 @@
 {
-  "version": "10",
+  "version": "9",
   "minAppVersion": "1.0.0",
   "audioBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-books",
   "quranBaseUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran",
@@ -7,7 +7,7 @@
     "active": true,
     "message": "New update available! Version 1.0.2 — fixes credits, connect links, and catalog-driven settings.",
     "type": "update",
-    "downloadUrl": "PASTE_YOUR_v1.0.2_APK_URL_HERE",
+    "downloadUrl": "https://github.com/MuslimSaint/rawdah-maktaba/releases/download/build-20260813-1539-9b4122e/app-arm64-v8a-release.apk",
     "minVersionToShow": "",
     "maxVersionToShow": "1.0.1"
   },
