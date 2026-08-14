@@ -1,0 +1,44 @@
+{
+  "reciters": [
+    {
+      "id": "abdulbasit",
+      "nameAr": "الشيخ عبد الباسط عبد الصمد",
+      "nameEn": "Sheikh Abdulbasit Abdusamad",
+      "nameAm": "ሼኽ አብዱልባሲጥ አብዱልሰማድ",
+      "initials": "عب",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_abdulbasit.jpg"
+    },
+    {
+      "id": "husary",
+      "nameAr": "الشيخ محمود خليل الحصري",
+      "nameEn": "Sheikh Mahmoud Khalil al-Husary",
+      "nameAm": "ሼኽ መሀሙድ ኸሊል አል-ሑሰሪ",
+      "initials": "حص",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_husary.jpg"
+    },
+    {
+      "id": "nourin",
+      "nameAr": "الشيخ نورين محمد صديق (رواية الدوري عن أبي عمرو)",
+      "nameEn": "Sheikh Noreen Mohammad Siddiq (Duri 'an Abi 'Amr)",
+      "nameAm": "ሼኽ ኑረዲን ሙሀመድ ሲዲቅ (ዱሪ ዐን አቢ አምር)",
+      "initials": "نم",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_nourin.jpg"
+    },
+    {
+      "id": "islamsobhi",
+      "nameAr": "القارئ إسلام صبحي",
+      "nameEn": "Qari Islam Sobhi",
+      "nameAm": "ቃሪ ኢስላም ሱብሒ",
+      "initials": "إص",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_islamsobhi.jpg"
+    },
+    {
+      "id": "hazzalbalushi",
+      "nameAr": "القارئ هزاع البلوشي",
+      "nameEn": "Qari Hazza Al-Balushi",
+      "nameAm": "ቃሪ ሀዛ አልባሉሺ",
+      "initials": "هب",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/reciter_hazzalbalushi.jpg"
+    }
+  ]
+}

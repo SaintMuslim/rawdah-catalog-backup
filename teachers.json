@@ -1,0 +1,76 @@
+{
+  "teachers": [
+    {
+      "id": "samir",
+      "nameAr": "الشيخ الدكتور سمير سامي القاضي",
+      "nameEn": "Sheikh Dr. Samir Sami Al-Qadi",
+      "nameAm": "ሼኽ ዶ/ር ሳሚር ሳሚ አልቃዲ",
+      "initials": "سق",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_samir.jpg"
+    },
+    {
+      "id": "misbah",
+      "nameAr": "الشيخ مصباح داود",
+      "nameEn": "Sheikh Misbah Dawud",
+      "nameAm": "ሸይኽ ሚስባሕ ዳውድ",
+      "initials": "مد",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_misbah.jpg"
+    },
+    {
+      "id": "amin",
+      "nameAr": "محمد أمين",
+      "nameEn": "Mohammed Amin",
+      "nameAm": "ኡስታዝ ሙሀመድ አሚን",
+      "initials": "مأ",
+      "photoUrl": ""
+    },
+    {
+      "id": "qasim",
+      "nameAr": "قاسم حسين",
+      "nameEn": "Qasim Hussein",
+      "nameAm": "ኡስታዝ ቃሲም ሁሴን",
+      "initials": "قح",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_qasim.jpg"
+    },
+    {
+      "id": "habib",
+      "nameAr": "حبيب نورو",
+      "nameEn": "Ustaz Habib Nuru",
+      "nameAm": "ኡስታዝ ሀቢብ ኑሩ",
+      "initials": "حن",
+      "photoUrl": ""
+    },
+    {
+      "id": "tariqallahham",
+      "nameAr": "الشيخ الدكتور طارق اللحام",
+      "nameEn": "Sheikh Dr. Tariq al-Lahham",
+      "nameAm": "ሼኽ ዶ/ር ጧሪቅ አልላሃም",
+      "initials": "ط ل",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_tariqallahham.jpg"
+    },
+    {
+      "id": "omarimam",
+      "nameAr": "الشيخ عمر إمام (بالأمهرية)",
+      "nameEn": "Sheikh Omar Imam",
+      "nameAm": "ሸይኽ ዑመር ኢማም",
+      "initials": "عإ",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_omarimam.jpg"
+    },
+    {
+      "id": "manzumat-awam",
+      "nameAr": "منظومة عقيدة العوام",
+      "nameEn": "Manzumat Aqidat al-Awam",
+      "nameAm": "መንዙመት ዐቂደቱል አዋም",
+      "initials": "مع",
+      "photoUrl": ""
+    },
+    {
+      "id": "ramzishatila",
+      "nameAr": "الشيخ رمزي شاتيلا (بالعربية)",
+      "nameEn": "Sheikh Ramzi Shatila (Arabic)",
+      "nameAm": "ሼኽ ራምዚ ሻቲላ",
+      "initials": "رش",
+      "photoUrl": "https://github.com/MuslimSaint/rawdah-catalog/releases/download/v1.0-quran/teacher_ramzishatila.jpg"
+    }
+  ]
+}
