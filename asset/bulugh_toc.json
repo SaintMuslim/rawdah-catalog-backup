@@ -1,0 +1,218 @@
+[
+  {"titleAr": "مقدمة", "titleEn": "", "page": 3},
+  {"titleAr": "ترجمة الحافظ ابن حجر العسقلاني", "titleEn": "", "page": 5},
+  {
+    "titleAr": "كتاب الطهارة",
+    "titleEn": "",
+    "page": 30,
+    "children": [
+      {"titleAr": "باب المياه", "titleEn": "", "page": 30},
+      {"titleAr": "باب الآنية", "titleEn": "", "page": 34},
+      {"titleAr": "باب إزالة النجاسة وبيانها", "titleEn": "", "page": 36},
+      {"titleAr": "باب الوضوء", "titleEn": "", "page": 38},
+      {"titleAr": "باب المسح على الخفين", "titleEn": "", "page": 43},
+      {"titleAr": "باب نواقض الوضوء", "titleEn": "", "page": 45},
+      {"titleAr": "باب آداب قضاء الحاجة", "titleEn": "", "page": 50},
+      {"titleAr": "باب الغسل وحكم الجنب", "titleEn": "", "page": 54},
+      {"titleAr": "باب التيمم", "titleEn": "", "page": 58},
+      {"titleAr": "باب الحيض", "titleEn": "", "page": 61}
+    ]
+  },
+  {
+    "titleAr": "كتاب الصلاة",
+    "titleEn": "",
+    "page": 65,
+    "children": [
+      {"titleAr": "باب المواقيت", "titleEn": "", "page": 65},
+      {"titleAr": "باب الأذان", "titleEn": "", "page": 70},
+      {"titleAr": "باب شروط الصلاة", "titleEn": "", "page": 76},
+      {"titleAr": "باب سترة المصلي", "titleEn": "", "page": 82},
+      {"titleAr": "باب الحث على الخشوع في الصلاة", "titleEn": "", "page": 84},
+      {"titleAr": "باب المساجد", "titleEn": "", "page": 86},
+      {"titleAr": "باب صفة الصلاة", "titleEn": "", "page": 90},
+      {"titleAr": "باب سجود السهو وغيره", "titleEn": "", "page": 105},
+      {"titleAr": "باب صلاة التطوع", "titleEn": "", "page": 110},
+      {"titleAr": "باب صلاة الجماعة والإمامة", "titleEn": "", "page": 118},
+      {"titleAr": "باب صلاة المسافر والمريض", "titleEn": "", "page": 126},
+      {"titleAr": "باب صلاة الجمعة", "titleEn": "", "page": 129},
+      {"titleAr": "باب صلاة الخوف", "titleEn": "", "page": 135},
+      {"titleAr": "باب صلاة العيدين", "titleEn": "", "page": 137},
+      {"titleAr": "باب صلاة الكسوف", "titleEn": "", "page": 141},
+      {"titleAr": "باب صلاة الاستسقاء", "titleEn": "", "page": 143},
+      {"titleAr": "باب اللباس", "titleEn": "", "page": 146}
+    ]
+  },
+  {
+    "titleAr": "كتاب الجنائز",
+    "titleEn": "",
+    "page": 149
+  },
+  {
+    "titleAr": "كتاب الزكاة",
+    "titleEn": "",
+    "page": 163,
+    "children": [
+      {"titleAr": "باب صدقة الفطر", "titleEn": "", "page": 170},
+      {"titleAr": "باب صدقة التطوع", "titleEn": "", "page": 171},
+      {"titleAr": "باب قسم الصدقات", "titleEn": "", "page": 175}
+    ]
+  },
+  {
+    "titleAr": "كتاب الصيام",
+    "titleEn": "",
+    "page": 178,
+    "children": [
+      {"titleAr": "باب صوم التطوع وما نهي عن صومه", "titleEn": "", "page": 185},
+      {"titleAr": "باب الاعتكاف وقيام رمضان", "titleEn": "", "page": 189}
+    ]
+  },
+  {
+    "titleAr": "كتاب الحج",
+    "titleEn": "",
+    "page": 192,
+    "children": [
+      {"titleAr": "باب فضله وبيان من فرض عليه", "titleEn": "", "page": 192},
+      {"titleAr": "باب المواقيت", "titleEn": "", "page": 195},
+      {"titleAr": "باب وجوب الإحرام وصفته", "titleEn": "", "page": 196},
+      {"titleAr": "باب الإحرام وما يتعلق به", "titleEn": "", "page": 196},
+      {"titleAr": "باب صفة الحج ودخول مكة", "titleEn": "", "page": 200},
+      {"titleAr": "باب الفوات والإحصار", "titleEn": "", "page": 212}
+    ]
+  },
+  {
+    "titleAr": "كتاب البيوع",
+    "titleEn": "",
+    "page": 213,
+    "children": [
+      {"titleAr": "باب شروطه وما نهي عنه منه", "titleEn": "", "page": 213},
+      {"titleAr": "باب الخيار", "titleEn": "", "page": 228},
+      {"titleAr": "باب الربا", "titleEn": "", "page": 229},
+      {"titleAr": "باب الرخصة في العرايا وبيع الأصول والثمار", "titleEn": "", "page": 233},
+      {"titleAr": "أبواب السلم والقرض والرهن", "titleEn": "", "page": 235},
+      {"titleAr": "باب التفليس والحجر", "titleEn": "", "page": 237},
+      {"titleAr": "باب الصلح", "titleEn": "", "page": 240},
+      {"titleAr": "باب الحوالة والضمان", "titleEn": "", "page": 241},
+      {"titleAr": "باب الشركة والوكالة", "titleEn": "", "page": 243},
+      {"titleAr": "باب الإقرار", "titleEn": "", "page": 244},
+      {"titleAr": "باب العارية", "titleEn": "", "page": 244},
+      {"titleAr": "باب الغصب", "titleEn": "", "page": 245},
+      {"titleAr": "باب الشفعة", "titleEn": "", "page": 247},
+      {"titleAr": "باب القراض", "titleEn": "", "page": 249},
+      {"titleAr": "باب المساقاة والإجارة", "titleEn": "", "page": 250},
+      {"titleAr": "باب إحياء الموات", "titleEn": "", "page": 252},
+      {"titleAr": "باب الوقف", "titleEn": "", "page": 254},
+      {"titleAr": "باب الهبة والعمرى والرقبى", "titleEn": "", "page": 255},
+      {"titleAr": "باب اللقطة", "titleEn": "", "page": 258},
+      {"titleAr": "باب الفرائض", "titleEn": "", "page": 260},
+      {"titleAr": "باب الوصايا", "titleEn": "", "page": 263},
+      {"titleAr": "باب الوديعة", "titleEn": "", "page": 265}
+    ]
+  },
+  {
+    "titleAr": "كتاب النكاح",
+    "titleEn": "",
+    "page": 266,
+    "children": [
+      {"titleAr": "باب الكفاءة والخيار", "titleEn": "", "page": 275},
+      {"titleAr": "باب عشرة النساء", "titleEn": "", "page": 278},
+      {"titleAr": "باب الصداق", "titleEn": "", "page": 282},
+      {"titleAr": "باب الوليمة", "titleEn": "", "page": 285},
+      {"titleAr": "باب القسم", "titleEn": "", "page": 289},
+      {"titleAr": "باب الخلع", "titleEn": "", "page": 292}
+    ]
+  },
+  {
+    "titleAr": "كتاب الطلاق",
+    "titleEn": "",
+    "page": 293,
+    "children": [
+      {"titleAr": "باب الرجعة", "titleEn": "", "page": 299},
+      {"titleAr": "باب الإيلاء والظهار والكفارة", "titleEn": "", "page": 300},
+      {"titleAr": "باب اللعان", "titleEn": "", "page": 302},
+      {"titleAr": "باب العدة والإحداد", "titleEn": "", "page": 305},
+      {"titleAr": "باب الرضاع", "titleEn": "", "page": 310},
+      {"titleAr": "باب النفقات", "titleEn": "", "page": 313},
+      {"titleAr": "باب الحضانة", "titleEn": "", "page": 316}
+    ]
+  },
+  {
+    "titleAr": "كتاب الجنايات",
+    "titleEn": "",
+    "page": 318,
+    "children": [
+      {"titleAr": "باب الديات", "titleEn": "", "page": 324},
+      {"titleAr": "باب دعوى الدم والقسامة", "titleEn": "", "page": 328},
+      {"titleAr": "باب قتال أهل البغي", "titleEn": "", "page": 329},
+      {"titleAr": "باب قتال الجاني وقتل المرتد", "titleEn": "", "page": 331}
+    ]
+  },
+  {
+    "titleAr": "كتاب الحدود",
+    "titleEn": "",
+    "page": 334,
+    "children": [
+      {"titleAr": "باب حد الزاني", "titleEn": "", "page": 334},
+      {"titleAr": "باب حد القذف", "titleEn": "", "page": 339},
+      {"titleAr": "باب حد السرقة", "titleEn": "", "page": 341},
+      {"titleAr": "باب حد الشارب وبيان المسكر", "titleEn": "", "page": 344},
+      {"titleAr": "باب التعزير وحكم الصائل", "titleEn": "", "page": 347}
+    ]
+  },
+  {
+    "titleAr": "كتاب الجهاد",
+    "titleEn": "",
+    "page": 349,
+    "children": [
+      {"titleAr": "باب الجزية والهدنة", "titleEn": "", "page": 361},
+      {"titleAr": "باب السبق والرمي", "titleEn": "", "page": 363}
+    ]
+  },
+  {
+    "titleAr": "كتاب الأطعمة",
+    "titleEn": "",
+    "page": 365,
+    "children": [
+      {"titleAr": "باب الصيد والذبائح", "titleEn": "", "page": 368},
+      {"titleAr": "باب الأضاحي", "titleEn": "", "page": 371},
+      {"titleAr": "باب العقيقة", "titleEn": "", "page": 374}
+    ]
+  },
+  {
+    "titleAr": "كتاب الأيمان والنذور",
+    "titleEn": "",
+    "page": 376
+  },
+  {
+    "titleAr": "كتاب القضاء",
+    "titleEn": "",
+    "page": 382,
+    "children": [
+      {"titleAr": "باب الشهادات", "titleEn": "", "page": 385},
+      {"titleAr": "باب الدعاوى والبينات", "titleEn": "", "page": 388}
+    ]
+  },
+  {
+    "titleAr": "كتاب العتق",
+    "titleEn": "",
+    "page": 391,
+    "children": [
+      {"titleAr": "باب المدبر والمكاتب وأم الولد", "titleEn": "", "page": 393}
+    ]
+  },
+  {
+    "titleAr": "كتاب الجامع",
+    "titleEn": "",
+    "page": 396,
+    "children": [
+      {"titleAr": "باب الأدب", "titleEn": "", "page": 396},
+      {"titleAr": "باب البر والصلة", "titleEn": "", "page": 400},
+      {"titleAr": "باب الزهد والورع", "titleEn": "", "page": 404},
+      {"titleAr": "باب الترهيب من مساوئ الأخلاق", "titleEn": "", "page": 407},
+      {"titleAr": "باب الترغيب في مكارم الأخلاق", "titleEn": "", "page": 415},
+      {"titleAr": "باب الذكر والدعاء", "titleEn": "", "page": 419}
+    ]
+  },
+  {"titleAr": "فهرس الأحاديث قوله (ﷺ)", "titleEn": "", "page": 426},
+  {"titleAr": "فهرس المصادر", "titleEn": "", "page": 447},
+  {"titleAr": "فهرس المواضيع", "titleEn": "", "page": 452}
+]
